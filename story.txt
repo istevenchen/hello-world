@@ -1,3 +1,7 @@
 [2020-11-13 21:48] FileName: story.txt
 
 This is a new line under /hello-world/main
+
+This is a new line under /hello-world/branch-edits
+
+Hello, this file is in editing!!!
